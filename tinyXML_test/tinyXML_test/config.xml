@@ -1,0 +1,8 @@
+<conf_db>
+  <host>localhost</host>
+  <user>root</user>
+  <port>3306</port>
+  <password>root</password>
+  <dbname>traffic_info</dbname>
+  <charset>GBK</charset>
+</conf_db>
